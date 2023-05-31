@@ -1,5 +1,5 @@
 # **DrivenEats** 🍔
->_Página web responsiva construída em HTML, CSS  e Javascript._
+>_Página web desenvolvida em HTML, CSS  e Javascript._
 
 DrivenEats, um restaurante especial que entrega seu pedido em 6 minutos.
 >
